@@ -1,0 +1,1 @@
+A void function performs an action without yielding results, whereas a fruitful function yields result,for example in the case of a mathematical computation function
